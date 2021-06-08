@@ -25,6 +25,7 @@ const account1 = {
     '2021-05-01T23:36:17.929Z',
     '2021-05-03T10:51:36.790Z',
   ],
+
   currency: 'EUR',
   locale: 'pt-PT', // de-DE
 };
